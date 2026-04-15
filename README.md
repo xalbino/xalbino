@@ -10,7 +10,7 @@ sequence analysis • computational biology • data analysis
 ## ⌁ tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java,vscodium,linux" />
 </p>
 
 python • java • (learning c++)  
