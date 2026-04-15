@@ -17,11 +17,7 @@ python • java • (learning c++)
 biopython • pandas • numpy
 
 ---
-## ◌ currently
-bioinformatics algorithms • machine learning • larger datasets
-
----
-## 📕 books
+## 📕 books im currently reading
 
 physiology • biochemistry • bioinformatics
 
