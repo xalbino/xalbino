@@ -8,8 +8,17 @@ sequence analysis • building tools for biological data
 ---
 ## ⌁ tools
 <p align="center">
-    <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,vscodium,fedora" />
+    <a href="https://python.org">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python" />
+    </a>
+    <a href="https://java.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
+    </a>
+    <a href="https://vscodium.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" />
+    </a>
+    <a href="https://secureblue.dev">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" />
     </a>
 </p>
 
