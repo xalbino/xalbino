@@ -1,24 +1,20 @@
 # Hi, i'm Albi
-
-bioinformatics student working with biological data and code
+bioinformatics student @ Freie Universität Berlin
 
 ---
 ## ⌁ focus
-sequence analysis • computational biology • data analysis  
+sequence analysis • building tools for biological data
 
---- 
+---
 ## ⌁ tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,vscodium,linux" />
 </p>
-
-python • java • (learning c++)  
-biopython • pandas • numpy
+python • biopython
 
 ---
-## ◌ currently
-bioinformatics algorithms • machine learning • larger datasets
+## ◌ currently learning
+bioinformatics algorithms • how to not break my FASTA files
 
 ---
 ## 📕 books
