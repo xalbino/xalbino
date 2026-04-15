@@ -7,10 +7,11 @@ sequence analysis • building tools for biological data
 
 ---
 ## ⌁ tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,vscodium,linux" />
+<p align="center">
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,vscodium,fedora" />
+    </a>
 </p>
-python • biopython
 
 ---
 ## ◌ currently learning
