@@ -17,12 +17,18 @@ python • java • (learning c++)
 biopython • pandas • numpy
 
 ---
-## 📕 books im currently reading
+## ◌ currently
+bioinformatics algorithms • machine learning • larger datasets
+
+---
+## 📕 books
 
 physiology • biochemistry • bioinformatics
 
 <p align="left">
-<img src="https://imageservice.ecom-api.beck-shop.de/api/getimage?productId=35871438&width=260&format=webp" width="110" />
-<img src="https://m.media-amazon.com/images/I/91wDPf8H8aL._AC_UF894,1000_QL80_.jpg" width="110" />
-<img src="https://media.wiley.com/product_data/coverImage300/84/11185817/1118581784.jpg" width="110" />
+<img src="https://imageservice.ecom-api.beck-shop.de/api/getimage?productId=35871438&width=260&format=webp" width="225" />
+<img src="https://m.media-amazon.com/images/I/91wDPf8H8aL._AC_UF894,1000_QL80_.jpg" width="225" />
+<img src="https://media.wiley.com/product_data/coverImage300/84/11185817/1118581784.jpg" width="225" />
 </p>
+
+
