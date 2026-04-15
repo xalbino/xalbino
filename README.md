@@ -10,13 +10,13 @@ sequence analysis • building tools for biological data
 <p align="center">
     <a href="https://python.org">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python" />
-    </a>
+    </a>&nbsp;
     <a href="https://java.com">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
-    </a>
+    </a>&nbsp;
     <a href="https://vscodium.com">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" />
-    </a>
+    </a>&nbsp;
     <a href="https://secureblue.dev">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" />
     </a>
