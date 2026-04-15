@@ -1,5 +1,5 @@
 # Hi, i'm Albi
-bioinformatics student
+**`bioinformatics student`**
 
 ---
 ## ⌁ focus
