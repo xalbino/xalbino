@@ -1,4 +1,4 @@
-# Hi, i'm Albi
+# Hi, I'm Albi
 **`bioinformatics student`**
 
 ---
