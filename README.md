@@ -17,8 +17,8 @@ sequence analysis • building tools for biological data
     <a href="https://vscodium.com">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" />
     </a>&nbsp;
-    <a href="https://secureblue.dev">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" />
+    <a href="https://cachyos.org">
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos" />
     </a>
 </p>
 
