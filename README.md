@@ -26,4 +26,9 @@ sequence analysis • building tools for biological data
 ## ◌ currently learning
 bioinformatics algorithms • how to not break my FASTA files
 
+---
+## ◌ currently projects
+**Interbloom**: A rust implementation of the interleaved bloom filter
+
+
 
